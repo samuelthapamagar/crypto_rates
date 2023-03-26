@@ -160,7 +160,7 @@ class CryptoCard extends StatelessWidget {
                 '1 $cryptoCurrency = $coinValue ${selectedCurrency!}',
                 textAlign: TextAlign.center,
                 style: const TextStyle(
-                  fontSize: 25.0,
+                  fontSize: 30.0,
                   color: Colors.black,
                   fontWeight: FontWeight.bold,
                 ),
